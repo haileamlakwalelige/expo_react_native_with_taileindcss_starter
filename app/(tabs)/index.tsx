@@ -11,10 +11,8 @@ export default function HomeScreen() {
             Building Digital{"\n"}Solutions That Drive{"\n"}Impact
           </Text>
           <Text className="text-base font-light text-gray-200 mb-8">
-            Hi there!👋 I&apos;m <Text className="text-blue-600">Haileamlak Waleligne </Text>Front-End & Mobile app
-            developer. I&apos;m a senior software developer, skilled in React js, Next
-            js, React Native, Flutter, HTML, CSS, JavaScript, Tailwind CSS, and
-            more.
+            Hi there!👋 I&apos;m <Text className="text-blue-600">Haileamlak Waleligne</Text>, a Full-Stack Developer. I specialize in building modern web and mobile applications using technologies like React.js, Next.js (both frontend & backend), React Native, Flutter, HTML, CSS, JavaScript, Tailwind CSS on the frontend — and Node.js, Express.js, and Next.js API routes on the backend. I&apos;m also a strong team player with excellent communication skills, always striving to collaborate effectively and deliver high-quality results.
+
           </Text>
           <View className="bg-gray-900 rounded-2xl p-6 shadow-lg w-full mb-4">
             <Text className="text-lg font-semibold text-white mb-4">
