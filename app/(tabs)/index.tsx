@@ -25,7 +25,7 @@ export default function HomeScreen() {
               </Text>
               <Text className="text-gray-300">
                 <Text className="font-semibold text-white">Phone:</Text> +251
-                911 11 22 33
+                939 10 02 03
               </Text>
               <Text className="text-gray-300">
                 <Text className="font-semibold text-white">WhatsApp:</Text> +251
