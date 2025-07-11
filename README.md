@@ -1,4 +1,4 @@
-```md
+
 # 🚀 Expo React Native + Tailwind CSS (NativeWind) Starter
 
 A ready-to-use starter template for building **React Native (Expo)** apps with **Tailwind CSS** using [NativeWind](https://www.nativewind.dev/).
