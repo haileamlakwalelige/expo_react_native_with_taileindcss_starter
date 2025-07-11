@@ -37,7 +37,7 @@ expo\_react\_native\_with\_taileindcss\_starter/
 
 ```bash
 git clone https://github.com/haileamlakwalelige/expo_react_native_with_tailwindcss-nativewind-_starter.git
-cd expo_react_native_with_taileindcss_starter
+cd expo_react_native_with_tailwindcss-nativewind-_starter
 ````
 
 ### 2. Install dependencies
