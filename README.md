@@ -36,7 +36,7 @@ expo\_react\_native\_with\_taileindcss\_starter/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/haileamlakwalelige/expo_react_native_with_taileindcss_starter.git
+git clone https://github.com/haileamlakwalelige/expo_react_native_with_tailwindcss-nativewind-_starter.git
 cd expo_react_native_with_taileindcss_starter
 ````
 
