@@ -20,7 +20,7 @@ A ready-to-use starter template for building **React Native (Expo)** apps with *
 
 ```
 
-expo\_react\_native\_with\_taileindcss\_starter/
+expoexpo_react_native_with_tailwindcss-nativewind-_starter
 ├── App.tsx
 ├── tailwind.config.js
 ├── babel.config.js
