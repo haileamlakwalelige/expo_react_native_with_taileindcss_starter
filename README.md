@@ -95,7 +95,7 @@ If you find this project helpful, give it a ⭐️ on GitHub and share it with o
 ## 🧑‍💻 Author
 
 **Haileamlak Waleligne**
-📧 [LinkedIn](https://linkedin.com/in/haileamlak-waleligne) (optional)
+📧 [LinkedIn](https://linkedin.com/in/haileamlak-waleligne)
 
 ---
 
